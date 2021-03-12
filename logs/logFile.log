@@ -1,0 +1,968 @@
+2021-03-12 10:09:13,245 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:09:13,250 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:09:13,250 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:09:13,250 INFO  [Log4j] Action Keyword:----------->    Navigate  
+2021-03-12 10:09:13,250 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:09:13,250 INFO  [Log4j] Input Data:--------------->    https://forms.gle/SfvUWjAExopSGs3E7  
+2021-03-12 10:09:13,277 INFO  [Log4j] Navigate is called 
+2021-03-12 10:09:25,210 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:09:25,210 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:09:25,210 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:09:25,210 INFO  [Log4j] Action Keyword:----------->    waitFor  
+2021-03-12 10:09:25,210 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:09:25,210 INFO  [Log4j] Input Data:--------------->    5  
+2021-03-12 10:09:30,388 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:09:30,389 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:09:30,389 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:09:30,389 INFO  [Log4j] Action Keyword:----------->    VerifyText  
+2021-03-12 10:09:30,389 INFO  [Log4j] WebElement:----------->    contactInfo    
+2021-03-12 10:09:30,389 INFO  [Log4j] Input Data:--------------->    Contact information  
+2021-03-12 10:09:30,613 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:09:30,613 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:09:30,613 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:09:30,613 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:09:30,613 INFO  [Log4j] WebElement:----------->    nameTextbox    
+2021-03-12 10:09:30,614 INFO  [Log4j] Input Data:--------------->    Mukesh  
+2021-03-12 10:09:30,614 INFO  [Log4j] Enter text into ... nameTextbox 
+2021-03-12 10:09:31,127 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:09:31,127 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:09:31,127 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:09:31,127 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:09:31,127 INFO  [Log4j] WebElement:----------->    emailTextbox    
+2021-03-12 10:09:31,127 INFO  [Log4j] Input Data:--------------->    mukesh@gmail.com  
+2021-03-12 10:09:31,127 INFO  [Log4j] Enter text into ... emailTextbox 
+2021-03-12 10:09:31,572 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:09:31,572 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:09:31,572 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:09:31,573 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:09:31,573 INFO  [Log4j] WebElement:----------->    addressTextbox    
+2021-03-12 10:09:31,573 INFO  [Log4j] Input Data:--------------->    anand  
+2021-03-12 10:09:31,573 INFO  [Log4j] Enter text into ... addressTextbox 
+2021-03-12 10:09:32,084 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:09:32,085 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:09:32,085 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:09:32,085 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:09:32,085 INFO  [Log4j] WebElement:----------->    phonenumberTextbox    
+2021-03-12 10:09:32,086 INFO  [Log4j] Input Data:--------------->    9856234578  
+2021-03-12 10:09:32,086 INFO  [Log4j] Enter text into ... phonenumberTextbox 
+2021-03-12 10:09:32,458 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:09:32,458 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:09:32,458 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:09:32,458 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:09:32,458 INFO  [Log4j] WebElement:----------->    commentsTextbox    
+2021-03-12 10:09:32,458 INFO  [Log4j] Input Data:--------------->    Test  
+2021-03-12 10:09:32,458 INFO  [Log4j] Enter text into ... commentsTextbox 
+2021-03-12 10:09:32,756 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:09:32,756 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:09:32,756 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:09:32,756 INFO  [Log4j] Action Keyword:----------->    LoopSteps  
+2021-03-12 10:09:32,756 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:09:32,756 INFO  [Log4j] Input Data:--------------->    Loop|TC-1|5|TS04|TS08|Names|Emails|Addresses|PhoneNumbers|Comments  
+2021-03-12 10:09:32,756 INFO  [Log4j] LoopSteps is called.. 
+2021-03-12 10:09:32,881 INFO  [Log4j] Enter text into ... nameTextbox 
+2021-03-12 10:09:33,299 INFO  [Log4j] Enter text into ... emailTextbox 
+2021-03-12 10:09:33,579 INFO  [Log4j] Enter text into ... addressTextbox 
+2021-03-12 10:09:33,748 INFO  [Log4j] Enter text into ... phonenumberTextbox 
+2021-03-12 10:09:33,968 INFO  [Log4j] Enter text into ... commentsTextbox 
+2021-03-12 10:09:34,155 INFO  [Log4j] Enter text into ... nameTextbox 
+2021-03-12 10:09:34,371 INFO  [Log4j] Enter text into ... emailTextbox 
+2021-03-12 10:09:34,603 INFO  [Log4j] Enter text into ... addressTextbox 
+2021-03-12 10:09:34,788 INFO  [Log4j] Enter text into ... phonenumberTextbox 
+2021-03-12 10:09:35,006 INFO  [Log4j] Enter text into ... commentsTextbox 
+2021-03-12 10:09:35,194 INFO  [Log4j] Enter text into ... nameTextbox 
+2021-03-12 10:09:35,392 INFO  [Log4j] Enter text into ... emailTextbox 
+2021-03-12 10:09:35,635 INFO  [Log4j] Enter text into ... addressTextbox 
+2021-03-12 10:09:35,828 INFO  [Log4j] Enter text into ... phonenumberTextbox 
+2021-03-12 10:09:36,071 INFO  [Log4j] Enter text into ... commentsTextbox 
+2021-03-12 10:09:36,251 INFO  [Log4j] Enter text into ... nameTextbox 
+2021-03-12 10:09:36,463 INFO  [Log4j] Enter text into ... emailTextbox 
+2021-03-12 10:09:36,709 INFO  [Log4j] Enter text into ... addressTextbox 
+2021-03-12 10:09:36,893 INFO  [Log4j] Enter text into ... phonenumberTextbox 
+2021-03-12 10:09:37,103 INFO  [Log4j] Enter text into ... commentsTextbox 
+2021-03-12 10:09:37,276 INFO  [Log4j] Enter text into ... nameTextbox 
+2021-03-12 10:09:37,459 INFO  [Log4j] Enter text into ... emailTextbox 
+2021-03-12 10:09:37,747 INFO  [Log4j] Enter text into ... addressTextbox 
+2021-03-12 10:09:37,949 INFO  [Log4j] Enter text into ... phonenumberTextbox 
+2021-03-12 10:09:38,194 INFO  [Log4j] Enter text into ... commentsTextbox 
+2021-03-12 10:09:38,480 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:09:38,480 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:09:38,480 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:09:38,481 INFO  [Log4j] Action Keyword:----------->    waitFor  
+2021-03-12 10:09:38,481 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:09:38,481 INFO  [Log4j] Input Data:--------------->    5  
+2021-03-12 10:09:52,894 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:09:52,894 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:09:52,894 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:09:52,894 INFO  [Log4j] Action Keyword:----------->    Navigate  
+2021-03-12 10:09:52,894 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:09:52,894 INFO  [Log4j] Input Data:--------------->    https://forms.gle/SfvUWjAExopSGs3E7  
+2021-03-12 10:09:52,894 INFO  [Log4j] Navigate is called 
+2021-03-12 10:09:59,575 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:09:59,575 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:09:59,575 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:09:59,575 INFO  [Log4j] Action Keyword:----------->    waitFor  
+2021-03-12 10:09:59,575 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:09:59,575 INFO  [Log4j] Input Data:--------------->    5  
+2021-03-12 10:10:04,599 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:10:04,599 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:10:04,599 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:10:04,599 INFO  [Log4j] Action Keyword:----------->    VerifyText  
+2021-03-12 10:10:04,599 INFO  [Log4j] WebElement:----------->    contactInfo    
+2021-03-12 10:10:04,600 INFO  [Log4j] Input Data:--------------->    Contact information  
+2021-03-12 10:10:04,684 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:10:04,684 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:10:04,684 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:10:04,684 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:10:04,684 INFO  [Log4j] WebElement:----------->    nameTextbox    
+2021-03-12 10:10:04,684 INFO  [Log4j] Input Data:--------------->    Mukesh  
+2021-03-12 10:10:04,684 INFO  [Log4j] Enter text into ... nameTextbox 
+2021-03-12 10:10:05,016 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:10:05,016 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:10:05,016 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:10:05,016 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:10:05,016 INFO  [Log4j] WebElement:----------->    emailTextbox    
+2021-03-12 10:10:05,016 INFO  [Log4j] Input Data:--------------->    mukesh@gmail.com  
+2021-03-12 10:10:05,016 INFO  [Log4j] Enter text into ... emailTextbox 
+2021-03-12 10:10:05,249 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:10:05,249 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:10:05,249 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:10:05,250 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:10:05,250 INFO  [Log4j] WebElement:----------->    addressTextbox    
+2021-03-12 10:10:05,250 INFO  [Log4j] Input Data:--------------->    anand  
+2021-03-12 10:10:05,250 INFO  [Log4j] Enter text into ... addressTextbox 
+2021-03-12 10:10:05,597 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:10:05,597 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:10:05,597 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:10:05,597 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:10:05,597 INFO  [Log4j] WebElement:----------->    phonenumberTextbox    
+2021-03-12 10:10:05,597 INFO  [Log4j] Input Data:--------------->    9856234578  
+2021-03-12 10:10:05,597 INFO  [Log4j] Enter text into ... phonenumberTextbox 
+2021-03-12 10:10:05,958 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:10:05,958 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:10:05,958 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:10:05,958 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:10:05,958 INFO  [Log4j] WebElement:----------->    commentsTextbox    
+2021-03-12 10:10:05,958 INFO  [Log4j] Input Data:--------------->    Test  
+2021-03-12 10:10:05,958 INFO  [Log4j] Enter text into ... commentsTextbox 
+2021-03-12 10:10:06,125 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:10:06,125 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:10:06,125 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:10:06,125 INFO  [Log4j] Action Keyword:----------->    LoopSteps  
+2021-03-12 10:10:06,125 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:10:06,125 INFO  [Log4j] Input Data:--------------->    Loop|TC-1|5|TS04|TS08|Names|Emails|Addresses|PhoneNumbers|Comments  
+2021-03-12 10:10:06,125 INFO  [Log4j] LoopSteps is called.. 
+2021-03-12 10:10:06,217 INFO  [Log4j] Enter text into ... nameTextbox 
+2021-03-12 10:10:06,478 INFO  [Log4j] Enter text into ... emailTextbox 
+2021-03-12 10:10:06,743 INFO  [Log4j] Enter text into ... addressTextbox 
+2021-03-12 10:10:06,928 INFO  [Log4j] Enter text into ... phonenumberTextbox 
+2021-03-12 10:10:07,208 INFO  [Log4j] Enter text into ... commentsTextbox 
+2021-03-12 10:10:07,390 INFO  [Log4j] Enter text into ... nameTextbox 
+2021-03-12 10:10:07,568 INFO  [Log4j] Enter text into ... emailTextbox 
+2021-03-12 10:10:07,755 INFO  [Log4j] Enter text into ... addressTextbox 
+2021-03-12 10:10:07,915 INFO  [Log4j] Enter text into ... phonenumberTextbox 
+2021-03-12 10:10:08,089 INFO  [Log4j] Enter text into ... commentsTextbox 
+2021-03-12 10:10:08,232 INFO  [Log4j] Enter text into ... nameTextbox 
+2021-03-12 10:10:08,387 INFO  [Log4j] Enter text into ... emailTextbox 
+2021-03-12 10:10:08,601 INFO  [Log4j] Enter text into ... addressTextbox 
+2021-03-12 10:10:08,764 INFO  [Log4j] Enter text into ... phonenumberTextbox 
+2021-03-12 10:10:08,917 INFO  [Log4j] Enter text into ... commentsTextbox 
+2021-03-12 10:10:09,116 INFO  [Log4j] Enter text into ... nameTextbox 
+2021-03-12 10:10:09,268 INFO  [Log4j] Enter text into ... emailTextbox 
+2021-03-12 10:10:09,488 INFO  [Log4j] Enter text into ... addressTextbox 
+2021-03-12 10:10:09,720 INFO  [Log4j] Enter text into ... phonenumberTextbox 
+2021-03-12 10:10:09,917 INFO  [Log4j] Enter text into ... commentsTextbox 
+2021-03-12 10:10:10,104 INFO  [Log4j] Enter text into ... nameTextbox 
+2021-03-12 10:10:10,265 INFO  [Log4j] Enter text into ... emailTextbox 
+2021-03-12 10:10:10,518 INFO  [Log4j] Enter text into ... addressTextbox 
+2021-03-12 10:10:10,686 INFO  [Log4j] Enter text into ... phonenumberTextbox 
+2021-03-12 10:10:10,878 INFO  [Log4j] Enter text into ... commentsTextbox 
+2021-03-12 10:10:11,077 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:10:11,077 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:10:11,077 INFO  [Log4j] Test Case ID:------------->    LoopKeywordDemo    
+2021-03-12 10:10:11,077 INFO  [Log4j] Action Keyword:----------->    waitFor  
+2021-03-12 10:10:11,077 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:10:11,077 INFO  [Log4j] Input Data:--------------->    5  
+2021-03-12 10:11:26,872 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:11:26,872 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:11:26,872 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:11:26,872 INFO  [Log4j] Action Keyword:----------->    Navigate  
+2021-03-12 10:11:26,872 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:11:26,872 INFO  [Log4j] Input Data:--------------->    https://www.fisglobal.com/en/contact-us  
+2021-03-12 10:11:26,877 INFO  [Log4j] Navigate is called 
+2021-03-12 10:11:36,981 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:11:36,981 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:11:36,981 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:11:36,981 INFO  [Log4j] Action Keyword:----------->    waitFor  
+2021-03-12 10:11:36,981 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:11:36,981 INFO  [Log4j] Input Data:--------------->    15  
+2021-03-12 10:11:41,364 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:11:41,365 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:11:41,365 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:11:41,365 INFO  [Log4j] Action Keyword:----------->    Navigate  
+2021-03-12 10:11:41,365 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:11:41,365 INFO  [Log4j] Input Data:--------------->    https://www.fisglobal.com/en/contact-us  
+2021-03-12 10:11:41,365 INFO  [Log4j] Navigate is called 
+2021-03-12 10:11:52,030 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:11:52,031 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:11:52,032 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:11:52,032 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:11:52,032 INFO  [Log4j] WebElement:----------->    enquiryType    
+2021-03-12 10:11:52,032 INFO  [Log4j] Input Data:--------------->    Other  
+2021-03-12 10:11:52,877 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:11:52,877 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:11:52,877 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:11:52,877 INFO  [Log4j] Action Keyword:----------->    Click  
+2021-03-12 10:11:52,877 INFO  [Log4j] WebElement:----------->    firstName    
+2021-03-12 10:11:52,877 INFO  [Log4j] Input Data:--------------->    null  
+2021-03-12 10:11:52,878 INFO  [Log4j] Click is called ... firstName 
+2021-03-12 10:11:54,260 ERROR [Log4j] Not able to Click--- element click intercepted: Element <input id="FirstName" name="FirstName" placeholder="Enter First Name" maxlength="255" aria-labelledby="LblFirstName InstructFirstName" type="text" class="mktoField mktoTextField mktoHasWidth mktoRequired" aria-required="true" style="width: 175px;"> is not clickable at point (578, 677). Other element would receive the click: <span style="font-family: Roboto, &quot;Open Sans&quot;, Arial, Helvetica; font-size: 12px; color: rgb(255, 255, 255); background: rgb(1, 40, 52); bottom: 0px; opacity: 1;">...</span>
+  (Session info: chrome=88.0.4324.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-POD63J8', ip: '169.254.71.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\Mukesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53737}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 84947fe36aecf1b08d8d433cef119cf3 
+2021-03-12 10:11:54,260 ERROR [Log4j] TC-1 
+2021-03-12 10:11:55,108 ERROR [Log4j] TC-1 
+2021-03-12 10:11:55,148 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:11:55,149 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:11:55,149 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:11:55,149 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:11:55,149 INFO  [Log4j] WebElement:----------->    firstName    
+2021-03-12 10:11:55,149 INFO  [Log4j] Input Data:--------------->    Raghu  
+2021-03-12 10:11:55,149 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:11:55,519 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:11:55,519 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:11:55,519 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:11:55,519 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:11:55,519 INFO  [Log4j] WebElement:----------->    surName    
+2021-03-12 10:11:55,519 INFO  [Log4j] Input Data:--------------->    Rc  
+2021-03-12 10:11:55,519 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:11:55,752 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:11:55,752 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:11:55,752 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:11:55,752 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:11:55,752 INFO  [Log4j] WebElement:----------->    jobTitle    
+2021-03-12 10:11:55,752 INFO  [Log4j] Input Data:--------------->    Software Engineer  
+2021-03-12 10:11:55,752 INFO  [Log4j] Enter text into ... jobTitle 
+2021-03-12 10:11:56,260 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:11:56,260 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:11:56,260 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:11:56,260 INFO  [Log4j] Action Keyword:----------->    LoopSteps  
+2021-03-12 10:11:56,260 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:11:56,260 INFO  [Log4j] Input Data:--------------->    Loop|TC-1|3|TS05|TS07|FirstNames|LastNames|Jobtitles  
+2021-03-12 10:11:56,260 INFO  [Log4j] LoopSteps is called.. 
+2021-03-12 10:11:56,341 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:11:56,697 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:11:57,031 INFO  [Log4j] Enter text into ... jobTitle 
+2021-03-12 10:11:57,292 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:11:57,544 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:11:57,850 INFO  [Log4j] Enter text into ... jobTitle 
+2021-03-12 10:11:58,091 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:11:58,397 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:11:58,609 INFO  [Log4j] Enter text into ... jobTitle 
+2021-03-12 10:11:58,958 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:11:58,958 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:11:58,959 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:11:58,959 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:11:58,959 INFO  [Log4j] WebElement:----------->    emailAddress    
+2021-03-12 10:11:58,959 INFO  [Log4j] Input Data:--------------->    admin1@gmail.com  
+2021-03-12 10:11:58,962 INFO  [Log4j] Enter text into ... emailAddress 
+2021-03-12 10:11:59,346 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:11:59,349 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:11:59,349 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:11:59,349 INFO  [Log4j] Action Keyword:----------->    waitFor  
+2021-03-12 10:11:59,349 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:11:59,349 INFO  [Log4j] Input Data:--------------->    15  
+2021-03-12 10:11:59,377 ERROR [Log4j] Not able to InputText--- null 
+2021-03-12 10:11:59,377 ERROR [Log4j] TC-1 
+2021-03-12 10:12:00,029 ERROR [Log4j] TC-1 
+2021-03-12 10:12:00,046 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:00,047 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:00,047 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:00,047 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:12:00,047 INFO  [Log4j] WebElement:----------->    company    
+2021-03-12 10:12:00,047 INFO  [Log4j] Input Data:--------------->    SLK  
+2021-03-12 10:12:00,047 INFO  [Log4j] Enter text into ... company 
+2021-03-12 10:12:01,070 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:01,071 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:01,071 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:01,071 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:12:01,071 INFO  [Log4j] WebElement:----------->    phoneNum    
+2021-03-12 10:12:01,071 INFO  [Log4j] Input Data:--------------->    88888888  
+2021-03-12 10:12:01,071 INFO  [Log4j] Enter text into ... phoneNum 
+2021-03-12 10:12:01,385 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:01,385 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:01,385 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:01,385 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:12:01,385 INFO  [Log4j] WebElement:----------->    heardAboutUs    
+2021-03-12 10:12:01,385 INFO  [Log4j] Input Data:--------------->    Facebook  
+2021-03-12 10:12:01,614 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:01,614 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:01,614 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:01,614 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:12:01,615 INFO  [Log4j] WebElement:----------->    country    
+2021-03-12 10:12:01,615 INFO  [Log4j] Input Data:--------------->    India  
+2021-03-12 10:12:01,843 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:01,843 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:01,843 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:01,843 INFO  [Log4j] Action Keyword:----------->    AssertString  
+2021-03-12 10:12:01,843 INFO  [Log4j] WebElement:----------->    thanksTitle    
+2021-03-12 10:12:01,843 INFO  [Log4j] Input Data:--------------->    Thanks  
+2021-03-12 10:12:01,844 INFO  [Log4j] Assert String is called ... thanksTitle 
+2021-03-12 10:12:02,083 ERROR [Log4j] Not able to AssertString--- expected [Thanks] but found [Contact Us] 
+2021-03-12 10:12:02,083 ERROR [Log4j] TC-1 
+2021-03-12 10:12:02,470 ERROR [Log4j] TC-1 
+2021-03-12 10:12:02,479 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:02,480 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:02,480 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:02,480 INFO  [Log4j] Action Keyword:----------->    ReuseTestCase  
+2021-03-12 10:12:02,480 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:12:02,480 INFO  [Log4j] Input Data:--------------->    Reuse_TC|TC-1|TS04|TS06|Y  
+2021-03-12 10:12:02,480 INFO  [Log4j] ReuseTestCase is called.. 
+2021-03-12 10:12:02,528 INFO  [Log4j] Click is called ... firstName 
+2021-03-12 10:12:02,794 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:12:03,051 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:12:03,282 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:03,282 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:03,282 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:03,282 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:12:03,283 INFO  [Log4j] WebElement:----------->    company    
+2021-03-12 10:12:03,283 INFO  [Log4j] Input Data:--------------->    SLK GP  
+2021-03-12 10:12:03,283 INFO  [Log4j] Enter text into ... company 
+2021-03-12 10:12:03,535 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:03,535 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:03,535 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:03,535 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:12:03,535 INFO  [Log4j] WebElement:----------->    phoneNum    
+2021-03-12 10:12:03,535 INFO  [Log4j] Input Data:--------------->    12345689  
+2021-03-12 10:12:03,535 INFO  [Log4j] Enter text into ... phoneNum 
+2021-03-12 10:12:03,754 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:03,754 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:03,754 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:03,763 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:12:03,763 INFO  [Log4j] WebElement:----------->    heardAboutUs    
+2021-03-12 10:12:03,764 INFO  [Log4j] Input Data:--------------->    Facebook  
+2021-03-12 10:12:03,874 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:03,874 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:03,874 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:03,874 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:12:03,874 INFO  [Log4j] WebElement:----------->    country    
+2021-03-12 10:12:03,874 INFO  [Log4j] Input Data:--------------->    United States  
+2021-03-12 10:12:04,102 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:04,102 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:04,102 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:04,102 INFO  [Log4j] Action Keyword:----------->    ReuseTestCase  
+2021-03-12 10:12:04,103 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:12:04,103 INFO  [Log4j] Input Data:--------------->    Reuse_TC|TC-1|TS04|TS06|Y  
+2021-03-12 10:12:04,103 INFO  [Log4j] ReuseTestCase is called.. 
+2021-03-12 10:12:04,312 INFO  [Log4j] Click is called ... firstName 
+2021-03-12 10:12:04,489 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:12:04,660 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:12:04,846 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:04,846 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:04,846 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:04,847 INFO  [Log4j] Action Keyword:----------->    ReuseTestCase  
+2021-03-12 10:12:04,847 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:12:04,847 INFO  [Log4j] Input Data:--------------->    Reuse_TC|TC-2|TS02|TS05|N  
+2021-03-12 10:12:04,847 INFO  [Log4j] ReuseTestCase is called.. 
+2021-03-12 10:12:04,924 INFO  [Log4j] Enter text into ... company 
+2021-03-12 10:12:05,235 INFO  [Log4j] Enter text into ... phoneNum 
+2021-03-12 10:12:05,647 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:05,647 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:05,647 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:05,647 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:12:05,647 INFO  [Log4j] WebElement:----------->    firstName    
+2021-03-12 10:12:05,647 INFO  [Log4j] Input Data:--------------->    Mukesh  
+2021-03-12 10:12:05,648 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:12:05,880 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:05,880 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:05,880 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:05,880 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:12:05,880 INFO  [Log4j] WebElement:----------->    surName    
+2021-03-12 10:12:05,880 INFO  [Log4j] Input Data:--------------->    Thakor  
+2021-03-12 10:12:05,880 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:12:06,154 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:06,154 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:06,154 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:06,154 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:12:06,154 INFO  [Log4j] WebElement:----------->    jobTitle    
+2021-03-12 10:12:06,154 INFO  [Log4j] Input Data:--------------->    SE  
+2021-03-12 10:12:06,154 INFO  [Log4j] Enter text into ... jobTitle 
+2021-03-12 10:12:06,393 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:06,393 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:06,393 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:06,393 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:12:06,393 INFO  [Log4j] WebElement:----------->    selectState    
+2021-03-12 10:12:06,393 INFO  [Log4j] Input Data:--------------->    AR  
+2021-03-12 10:12:06,597 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:06,597 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:06,597 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:06,597 INFO  [Log4j] Action Keyword:----------->    Click  
+2021-03-12 10:12:06,597 INFO  [Log4j] WebElement:----------->    btnsubmit    
+2021-03-12 10:12:06,597 INFO  [Log4j] Input Data:--------------->    null  
+2021-03-12 10:12:06,597 INFO  [Log4j] Click is called ... btnsubmit 
+2021-03-12 10:12:07,746 ERROR [Log4j] Not able to Click--- element click intercepted: Element <button type="submit" class="mktoButton">...</button> is not clickable at point (759, 654). Other element would receive the click: <div class="termly-consent-banner-termly-banner-e64268 termly-consent-banner-bottom-f71c85" id="consent" style="background-color: rgb(1, 40, 52);">...</div>
+  (Session info: chrome=88.0.4324.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-POD63J8', ip: '169.254.71.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\Mukesh\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53737}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 84947fe36aecf1b08d8d433cef119cf3 
+2021-03-12 10:12:07,746 ERROR [Log4j] TC-3 
+2021-03-12 10:12:08,130 ERROR [Log4j] TC-3 
+2021-03-12 10:12:14,369 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:14,370 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:14,370 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:14,370 INFO  [Log4j] Action Keyword:----------->    ReuseTestCase  
+2021-03-12 10:12:14,370 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:12:14,370 INFO  [Log4j] Input Data:--------------->    Reuse_TC|TC-1|TS04|TS06|Y  
+2021-03-12 10:12:14,370 INFO  [Log4j] ReuseTestCase is called.. 
+2021-03-12 10:12:14,418 INFO  [Log4j] Click is called ... firstName 
+2021-03-12 10:12:14,995 ERROR [Log4j] Not able to Click--- Element <input id="FirstName" class="mktoField mktoTextField mktoHasWidth mktoRequired" name="FirstName" type="text"> is not clickable at point (579,682) because another element <span> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-POD63J8', ip: '169.254.71.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 86.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210222142601, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 9188, moz:profile: C:\Users\Mukesh\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 683da32f-92b5-427e-a63d-878828a6b003 
+2021-03-12 10:12:14,995 ERROR [Log4j] TC-3 
+2021-03-12 10:12:15,410 ERROR [Log4j] TC-1 
+2021-03-12 10:12:15,411 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:12:15,997 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:12:16,309 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:16,310 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:16,310 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:16,310 INFO  [Log4j] Action Keyword:----------->    ReuseTestCase  
+2021-03-12 10:12:16,310 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:12:16,310 INFO  [Log4j] Input Data:--------------->    Reuse_TC|TC-2|TS02|TS05|N  
+2021-03-12 10:12:16,310 INFO  [Log4j] ReuseTestCase is called.. 
+2021-03-12 10:12:16,371 INFO  [Log4j] Enter text into ... company 
+2021-03-12 10:12:16,587 INFO  [Log4j] Enter text into ... phoneNum 
+2021-03-12 10:12:17,236 ERROR [Log4j] Not able to selectDropDownByVisibleText--- Element <select id="howtheuserheardaboutus" class="mktoField mktoHasWidth mktoRequired" name="howtheuserheardaboutus"> is not clickable at point (759,669) because another element <span> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-POD63J8', ip: '169.254.71.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 86.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210222142601, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 9188, moz:profile: C:\Users\Mukesh\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 683da32f-92b5-427e-a63d-878828a6b003 
+2021-03-12 10:12:17,236 ERROR [Log4j] TC-3 
+2021-03-12 10:12:17,393 ERROR [Log4j] TC-2 
+2021-03-12 10:12:17,527 ERROR [Log4j] Not able to selectDropDownByVisibleText--- Element <select id="Country" class="mktoField mktoHasWidth mktoRequired" name="Country"> is not clickable at point (759,744) because another element <div id="consent" class="termly-consent-banner-termly-banner-e64268 termly-consent-banner-bottom-f71c85"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-POD63J8', ip: '169.254.71.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 86.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210222142601, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 9188, moz:profile: C:\Users\Mukesh\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 683da32f-92b5-427e-a63d-878828a6b003 
+2021-03-12 10:12:17,527 ERROR [Log4j] TC-3 
+2021-03-12 10:12:17,675 ERROR [Log4j] TC-2 
+2021-03-12 10:12:17,678 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:17,678 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:17,678 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:17,678 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:12:17,678 INFO  [Log4j] WebElement:----------->    firstName    
+2021-03-12 10:12:17,678 INFO  [Log4j] Input Data:--------------->    Mukesh  
+2021-03-12 10:12:17,678 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:12:17,844 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:17,844 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:17,844 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:17,844 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:12:17,844 INFO  [Log4j] WebElement:----------->    surName    
+2021-03-12 10:12:17,844 INFO  [Log4j] Input Data:--------------->    Thakor  
+2021-03-12 10:12:17,844 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:12:18,093 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:18,093 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:18,093 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:18,093 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:12:18,093 INFO  [Log4j] WebElement:----------->    jobTitle    
+2021-03-12 10:12:18,093 INFO  [Log4j] Input Data:--------------->    SE  
+2021-03-12 10:12:18,093 INFO  [Log4j] Enter text into ... jobTitle 
+2021-03-12 10:12:18,329 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:18,329 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:18,329 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:18,329 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:12:18,329 INFO  [Log4j] WebElement:----------->    selectState    
+2021-03-12 10:12:18,329 INFO  [Log4j] Input Data:--------------->    AR  
+2021-03-12 10:12:58,360 ERROR [Log4j] Not able to selectDropDownByVisibleText--- Unable to locate element: .//select[@id='State']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-POD63J8', ip: '169.254.71.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 86.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210222142601, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 9188, moz:profile: C:\Users\Mukesh\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 683da32f-92b5-427e-a63d-878828a6b003
+*** Element info: {Using=xpath, value=.//select[@id='State']} 
+2021-03-12 10:12:58,361 ERROR [Log4j] TC-3 
+2021-03-12 10:12:58,490 ERROR [Log4j] TC-1 
+2021-03-12 10:12:58,511 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:58,511 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:58,512 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:58,512 INFO  [Log4j] Action Keyword:----------->    Click  
+2021-03-12 10:12:58,512 INFO  [Log4j] WebElement:----------->    btnsubmit    
+2021-03-12 10:12:58,512 INFO  [Log4j] Input Data:--------------->    null  
+2021-03-12 10:12:58,512 INFO  [Log4j] Click is called ... btnsubmit 
+2021-03-12 10:12:59,997 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:12:59,997 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:12:59,997 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:12:59,997 INFO  [Log4j] Action Keyword:----------->    ReuseTestCase  
+2021-03-12 10:12:59,997 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:12:59,997 INFO  [Log4j] Input Data:--------------->    Reuse_TC|TC-1|TS04|TS06|Y  
+2021-03-12 10:12:59,997 INFO  [Log4j] ReuseTestCase is called.. 
+2021-03-12 10:13:00,057 INFO  [Log4j] Click is called ... firstName 
+2021-03-12 10:13:00,126 ERROR [Log4j] Not able to Click--- Element <input id="FirstName" class="mktoField mktoTextField mktoHasWidth mktoRequired mktoValid" name="FirstName" type="text"> is not clickable at point (579,99) because another element <a class=" fis-text-white" href="javascript:void(0)"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-POD63J8', ip: '169.254.71.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 86.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210222142601, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 9188, moz:profile: C:\Users\Mukesh\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 683da32f-92b5-427e-a63d-878828a6b003 
+2021-03-12 10:13:00,126 ERROR [Log4j] TC-2 
+2021-03-12 10:13:00,334 ERROR [Log4j] TC-1 
+2021-03-12 10:13:00,335 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:13:00,459 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:13:00,573 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:13:00,573 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:13:00,573 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:13:00,573 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:13:00,573 INFO  [Log4j] WebElement:----------->    company    
+2021-03-12 10:13:00,573 INFO  [Log4j] Input Data:--------------->    SLK GP  
+2021-03-12 10:13:00,574 INFO  [Log4j] Enter text into ... company 
+2021-03-12 10:13:00,740 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:13:00,740 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:13:00,740 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:13:00,740 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:13:00,740 INFO  [Log4j] WebElement:----------->    phoneNum    
+2021-03-12 10:13:00,740 INFO  [Log4j] Input Data:--------------->    12345689  
+2021-03-12 10:13:00,740 INFO  [Log4j] Enter text into ... phoneNum 
+2021-03-12 10:13:00,895 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:13:00,895 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:13:00,895 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:13:00,895 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:13:00,895 INFO  [Log4j] WebElement:----------->    heardAboutUs    
+2021-03-12 10:13:00,895 INFO  [Log4j] Input Data:--------------->    Facebook  
+2021-03-12 10:13:01,296 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:13:01,297 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:13:01,297 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:13:01,297 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:13:01,297 INFO  [Log4j] WebElement:----------->    country    
+2021-03-12 10:13:01,297 INFO  [Log4j] Input Data:--------------->    United States  
+2021-03-12 10:13:02,071 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:13:02,071 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:13:02,071 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:13:02,071 INFO  [Log4j] Action Keyword:----------->    ReuseTestCase  
+2021-03-12 10:13:02,071 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:13:02,071 INFO  [Log4j] Input Data:--------------->    Reuse_TC|TC-1|TS04|TS06|Y  
+2021-03-12 10:13:02,071 INFO  [Log4j] ReuseTestCase is called.. 
+2021-03-12 10:13:02,110 INFO  [Log4j] Click is called ... firstName 
+2021-03-12 10:13:02,218 ERROR [Log4j] Not able to Click--- Element <input id="FirstName" class="mktoField mktoTextField mktoHasWidth mktoRequired mktoValid" name="FirstName" type="text"> is not clickable at point (579,99) because another element <a class=" fis-text-white" href="javascript:void(0)"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-POD63J8', ip: '169.254.71.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 86.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210222142601, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 9188, moz:profile: C:\Users\Mukesh\AppData\Loc..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 683da32f-92b5-427e-a63d-878828a6b003 
+2021-03-12 10:13:02,218 ERROR [Log4j] TC-3 
+2021-03-12 10:13:02,384 ERROR [Log4j] TC-1 
+2021-03-12 10:13:02,384 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:13:02,499 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:13:02,638 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:13:02,638 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:13:02,638 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:13:02,638 INFO  [Log4j] Action Keyword:----------->    ReuseTestCase  
+2021-03-12 10:13:02,638 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:13:02,638 INFO  [Log4j] Input Data:--------------->    Reuse_TC|TC-2|TS02|TS05|N  
+2021-03-12 10:13:02,638 INFO  [Log4j] ReuseTestCase is called.. 
+2021-03-12 10:13:02,676 INFO  [Log4j] Enter text into ... company 
+2021-03-12 10:13:02,849 INFO  [Log4j] Enter text into ... phoneNum 
+2021-03-12 10:13:03,523 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:13:03,523 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:13:03,524 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:13:03,524 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:13:03,524 INFO  [Log4j] WebElement:----------->    firstName    
+2021-03-12 10:13:03,524 INFO  [Log4j] Input Data:--------------->    Mukesh  
+2021-03-12 10:13:03,524 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:13:03,679 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:13:03,679 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:13:03,679 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:13:03,679 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:13:03,679 INFO  [Log4j] WebElement:----------->    surName    
+2021-03-12 10:13:03,679 INFO  [Log4j] Input Data:--------------->    Thakor  
+2021-03-12 10:13:03,679 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:13:03,908 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:13:03,908 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:13:03,908 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:13:03,908 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:13:03,909 INFO  [Log4j] WebElement:----------->    jobTitle    
+2021-03-12 10:13:03,909 INFO  [Log4j] Input Data:--------------->    SE  
+2021-03-12 10:13:03,909 INFO  [Log4j] Enter text into ... jobTitle 
+2021-03-12 10:13:04,101 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:13:04,101 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:13:04,101 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:13:04,101 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:13:04,101 INFO  [Log4j] WebElement:----------->    selectState    
+2021-03-12 10:13:04,101 INFO  [Log4j] Input Data:--------------->    AR  
+2021-03-12 10:13:04,484 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:13:04,485 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:13:04,485 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:13:04,485 INFO  [Log4j] Action Keyword:----------->    Click  
+2021-03-12 10:13:04,485 INFO  [Log4j] WebElement:----------->    btnsubmit    
+2021-03-12 10:13:04,485 INFO  [Log4j] Input Data:--------------->    null  
+2021-03-12 10:13:04,485 INFO  [Log4j] Click is called ... btnsubmit 
+2021-03-12 10:14:55,288 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:14:55,289 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:14:55,289 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:14:55,289 INFO  [Log4j] Action Keyword:----------->    Navigate  
+2021-03-12 10:14:55,289 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:14:55,289 INFO  [Log4j] Input Data:--------------->    https://www.fisglobal.com/en/contact-us  
+2021-03-12 10:14:55,295 INFO  [Log4j] Navigate is called 
+2021-03-12 10:15:09,675 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:09,675 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:09,675 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:09,675 INFO  [Log4j] Action Keyword:----------->    waitFor  
+2021-03-12 10:15:09,675 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:15:09,675 INFO  [Log4j] Input Data:--------------->    15  
+2021-03-12 10:15:18,206 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:18,207 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:18,207 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:18,207 INFO  [Log4j] Action Keyword:----------->    Navigate  
+2021-03-12 10:15:18,207 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:15:18,207 INFO  [Log4j] Input Data:--------------->    https://www.fisglobal.com/en/contact-us  
+2021-03-12 10:15:18,208 INFO  [Log4j] Navigate is called 
+2021-03-12 10:15:24,763 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:24,763 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:24,764 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:24,764 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:15:24,764 INFO  [Log4j] WebElement:----------->    enquiryType    
+2021-03-12 10:15:24,764 INFO  [Log4j] Input Data:--------------->    Other  
+2021-03-12 10:15:25,460 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:25,460 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:25,460 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:25,460 INFO  [Log4j] Action Keyword:----------->    waitFor  
+2021-03-12 10:15:25,460 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:15:25,460 INFO  [Log4j] Input Data:--------------->    15  
+2021-03-12 10:15:40,494 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:40,494 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:40,494 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:40,494 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:15:40,494 INFO  [Log4j] WebElement:----------->    enquiryType    
+2021-03-12 10:15:40,494 INFO  [Log4j] Input Data:--------------->    Other  
+2021-03-12 10:15:40,876 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:40,876 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:40,876 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:40,876 INFO  [Log4j] Action Keyword:----------->    Click  
+2021-03-12 10:15:40,876 INFO  [Log4j] WebElement:----------->    firstName    
+2021-03-12 10:15:40,876 INFO  [Log4j] Input Data:--------------->    null  
+2021-03-12 10:15:40,877 INFO  [Log4j] Click is called ... firstName 
+2021-03-12 10:15:41,182 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:41,182 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:41,182 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:41,182 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:15:41,182 INFO  [Log4j] WebElement:----------->    firstName    
+2021-03-12 10:15:41,182 INFO  [Log4j] Input Data:--------------->    Raghu  
+2021-03-12 10:15:41,182 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:15:41,292 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:41,292 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:41,292 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:41,292 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:15:41,292 INFO  [Log4j] WebElement:----------->    surName    
+2021-03-12 10:15:41,292 INFO  [Log4j] Input Data:--------------->    Rc  
+2021-03-12 10:15:41,293 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:15:41,412 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:41,412 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:41,412 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:41,412 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:15:41,412 INFO  [Log4j] WebElement:----------->    jobTitle    
+2021-03-12 10:15:41,412 INFO  [Log4j] Input Data:--------------->    Software Engineer  
+2021-03-12 10:15:41,412 INFO  [Log4j] Enter text into ... jobTitle 
+2021-03-12 10:15:41,556 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:41,556 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:41,556 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:41,556 INFO  [Log4j] Action Keyword:----------->    LoopSteps  
+2021-03-12 10:15:41,556 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:15:41,556 INFO  [Log4j] Input Data:--------------->    Loop|TC-1|3|TS05|TS07|FirstNames|LastNames|Jobtitles  
+2021-03-12 10:15:41,557 INFO  [Log4j] LoopSteps is called.. 
+2021-03-12 10:15:41,659 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:15:41,862 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:15:42,004 INFO  [Log4j] Enter text into ... jobTitle 
+2021-03-12 10:15:42,160 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:15:42,301 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:15:42,442 INFO  [Log4j] Enter text into ... jobTitle 
+2021-03-12 10:15:42,624 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:15:42,771 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:15:42,909 INFO  [Log4j] Enter text into ... jobTitle 
+2021-03-12 10:15:43,050 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:43,050 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:43,050 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:43,050 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:15:43,050 INFO  [Log4j] WebElement:----------->    emailAddress    
+2021-03-12 10:15:43,050 INFO  [Log4j] Input Data:--------------->    admin1@gmail.com  
+2021-03-12 10:15:43,050 INFO  [Log4j] Enter text into ... emailAddress 
+2021-03-12 10:15:43,221 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:43,221 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:43,221 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:43,221 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:15:43,221 INFO  [Log4j] WebElement:----------->    company    
+2021-03-12 10:15:43,221 INFO  [Log4j] Input Data:--------------->    SLK  
+2021-03-12 10:15:43,221 INFO  [Log4j] Enter text into ... company 
+2021-03-12 10:15:43,370 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:43,370 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:43,370 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:43,370 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:15:43,370 INFO  [Log4j] WebElement:----------->    phoneNum    
+2021-03-12 10:15:43,370 INFO  [Log4j] Input Data:--------------->    88888888  
+2021-03-12 10:15:43,370 INFO  [Log4j] Enter text into ... phoneNum 
+2021-03-12 10:15:43,496 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:43,496 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:43,496 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:43,496 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:15:43,496 INFO  [Log4j] WebElement:----------->    heardAboutUs    
+2021-03-12 10:15:43,496 INFO  [Log4j] Input Data:--------------->    Facebook  
+2021-03-12 10:15:43,850 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:43,850 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:43,850 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:43,850 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:15:43,850 INFO  [Log4j] WebElement:----------->    country    
+2021-03-12 10:15:43,850 INFO  [Log4j] Input Data:--------------->    India  
+2021-03-12 10:15:44,203 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:44,203 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:44,203 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:44,203 INFO  [Log4j] Action Keyword:----------->    AssertString  
+2021-03-12 10:15:44,203 INFO  [Log4j] WebElement:----------->    thanksTitle    
+2021-03-12 10:15:44,203 INFO  [Log4j] Input Data:--------------->    Thanks  
+2021-03-12 10:15:44,203 INFO  [Log4j] Assert String is called ... thanksTitle 
+2021-03-12 10:15:44,294 ERROR [Log4j] Not able to AssertString--- expected [Thanks] but found [Contact Us] 
+2021-03-12 10:15:44,294 ERROR [Log4j] TC-1 
+2021-03-12 10:15:44,512 ERROR [Log4j] TC-1 
+2021-03-12 10:15:44,562 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:44,563 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:44,563 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:44,563 INFO  [Log4j] Action Keyword:----------->    ReuseTestCase  
+2021-03-12 10:15:44,563 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:15:44,563 INFO  [Log4j] Input Data:--------------->    Reuse_TC|TC-1|TS04|TS06|Y  
+2021-03-12 10:15:44,563 INFO  [Log4j] ReuseTestCase is called.. 
+2021-03-12 10:15:44,634 INFO  [Log4j] Click is called ... firstName 
+2021-03-12 10:15:44,945 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:15:45,050 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:15:45,188 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:45,188 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:45,188 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:45,188 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:15:45,188 INFO  [Log4j] WebElement:----------->    company    
+2021-03-12 10:15:45,188 INFO  [Log4j] Input Data:--------------->    SLK GP  
+2021-03-12 10:15:45,188 INFO  [Log4j] Enter text into ... company 
+2021-03-12 10:15:45,322 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:45,322 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:45,322 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:45,322 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:15:45,322 INFO  [Log4j] WebElement:----------->    phoneNum    
+2021-03-12 10:15:45,322 INFO  [Log4j] Input Data:--------------->    12345689  
+2021-03-12 10:15:45,322 INFO  [Log4j] Enter text into ... phoneNum 
+2021-03-12 10:15:45,469 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:45,469 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:45,469 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:45,469 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:15:45,469 INFO  [Log4j] WebElement:----------->    heardAboutUs    
+2021-03-12 10:15:45,469 INFO  [Log4j] Input Data:--------------->    Facebook  
+2021-03-12 10:15:45,590 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:45,590 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:45,590 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:45,590 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:15:45,590 INFO  [Log4j] WebElement:----------->    country    
+2021-03-12 10:15:45,590 INFO  [Log4j] Input Data:--------------->    United States  
+2021-03-12 10:15:45,971 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:45,971 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:45,971 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:45,971 INFO  [Log4j] Action Keyword:----------->    ReuseTestCase  
+2021-03-12 10:15:45,971 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:15:45,971 INFO  [Log4j] Input Data:--------------->    Reuse_TC|TC-1|TS04|TS06|Y  
+2021-03-12 10:15:45,971 INFO  [Log4j] ReuseTestCase is called.. 
+2021-03-12 10:15:46,050 INFO  [Log4j] Click is called ... firstName 
+2021-03-12 10:15:46,348 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:15:46,467 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:15:46,624 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:46,624 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:46,624 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:46,625 INFO  [Log4j] Action Keyword:----------->    ReuseTestCase  
+2021-03-12 10:15:46,625 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:15:46,625 INFO  [Log4j] Input Data:--------------->    Reuse_TC|TC-2|TS02|TS05|N  
+2021-03-12 10:15:46,625 INFO  [Log4j] ReuseTestCase is called.. 
+2021-03-12 10:15:46,716 INFO  [Log4j] Enter text into ... company 
+2021-03-12 10:15:46,892 INFO  [Log4j] Enter text into ... phoneNum 
+2021-03-12 10:15:47,234 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:47,234 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:47,234 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:47,234 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:15:47,234 INFO  [Log4j] WebElement:----------->    firstName    
+2021-03-12 10:15:47,234 INFO  [Log4j] Input Data:--------------->    Mukesh  
+2021-03-12 10:15:47,234 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:15:47,409 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:47,409 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:47,409 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:47,409 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:15:47,409 INFO  [Log4j] WebElement:----------->    surName    
+2021-03-12 10:15:47,410 INFO  [Log4j] Input Data:--------------->    Thakor  
+2021-03-12 10:15:47,410 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:15:47,613 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:47,613 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:47,613 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:47,613 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:15:47,613 INFO  [Log4j] WebElement:----------->    jobTitle    
+2021-03-12 10:15:47,613 INFO  [Log4j] Input Data:--------------->    SE  
+2021-03-12 10:15:47,613 INFO  [Log4j] Enter text into ... jobTitle 
+2021-03-12 10:15:47,809 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:47,809 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:47,809 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:47,809 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:15:47,809 INFO  [Log4j] WebElement:----------->    selectState    
+2021-03-12 10:15:47,809 INFO  [Log4j] Input Data:--------------->    AR  
+2021-03-12 10:15:48,200 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:15:48,200 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:15:48,200 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:15:48,200 INFO  [Log4j] Action Keyword:----------->    Click  
+2021-03-12 10:15:48,200 INFO  [Log4j] WebElement:----------->    btnsubmit    
+2021-03-12 10:15:48,200 INFO  [Log4j] Input Data:--------------->    null  
+2021-03-12 10:15:48,200 INFO  [Log4j] Click is called ... btnsubmit 
+2021-03-12 10:16:05,605 ERROR [Log4j] Not able to selectDropDownByVisibleText--- Cannot locate option with value: 15
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-POD63J8', ip: '169.254.71.32', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.7'
+Driver info: driver.version: unknown 
+2021-03-12 10:16:05,605 ERROR [Log4j] TC-3 
+2021-03-12 10:16:06,109 ERROR [Log4j] TC-1 
+2021-03-12 10:16:06,155 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:06,155 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:06,155 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:06,155 INFO  [Log4j] Action Keyword:----------->    ReuseTestCase  
+2021-03-12 10:16:06,155 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:16:06,155 INFO  [Log4j] Input Data:--------------->    Reuse_TC|TC-1|TS04|TS06|Y  
+2021-03-12 10:16:06,156 INFO  [Log4j] ReuseTestCase is called.. 
+2021-03-12 10:16:06,247 INFO  [Log4j] Click is called ... firstName 
+2021-03-12 10:16:06,609 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:16:06,803 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:16:07,076 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:07,077 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:07,077 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:07,077 INFO  [Log4j] Action Keyword:----------->    ReuseTestCase  
+2021-03-12 10:16:07,077 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:16:07,077 INFO  [Log4j] Input Data:--------------->    Reuse_TC|TC-2|TS02|TS05|N  
+2021-03-12 10:16:07,077 INFO  [Log4j] ReuseTestCase is called.. 
+2021-03-12 10:16:07,106 INFO  [Log4j] Enter text into ... company 
+2021-03-12 10:16:07,650 INFO  [Log4j] Enter text into ... phoneNum 
+2021-03-12 10:16:08,392 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:08,392 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:08,392 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:08,392 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:16:08,392 INFO  [Log4j] WebElement:----------->    firstName    
+2021-03-12 10:16:08,392 INFO  [Log4j] Input Data:--------------->    Mukesh  
+2021-03-12 10:16:08,392 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:16:08,702 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:08,703 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:08,703 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:08,703 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:16:08,704 INFO  [Log4j] WebElement:----------->    surName    
+2021-03-12 10:16:08,704 INFO  [Log4j] Input Data:--------------->    Thakor  
+2021-03-12 10:16:08,704 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:16:09,151 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:09,151 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:09,151 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:09,151 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:16:09,151 INFO  [Log4j] WebElement:----------->    jobTitle    
+2021-03-12 10:16:09,151 INFO  [Log4j] Input Data:--------------->    SE  
+2021-03-12 10:16:09,151 INFO  [Log4j] Enter text into ... jobTitle 
+2021-03-12 10:16:09,478 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:09,478 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:09,478 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:09,478 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:16:09,478 INFO  [Log4j] WebElement:----------->    selectState    
+2021-03-12 10:16:09,478 INFO  [Log4j] Input Data:--------------->    AR  
+2021-03-12 10:16:10,088 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:10,088 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:10,088 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:10,088 INFO  [Log4j] Action Keyword:----------->    Click  
+2021-03-12 10:16:10,088 INFO  [Log4j] WebElement:----------->    btnsubmit    
+2021-03-12 10:16:10,089 INFO  [Log4j] Input Data:--------------->    null  
+2021-03-12 10:16:10,089 INFO  [Log4j] Click is called ... btnsubmit 
+2021-03-12 10:16:10,349 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:10,349 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:10,349 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:10,349 INFO  [Log4j] Action Keyword:----------->    ReuseTestCase  
+2021-03-12 10:16:10,349 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:16:10,350 INFO  [Log4j] Input Data:--------------->    Reuse_TC|TC-1|TS04|TS06|Y  
+2021-03-12 10:16:10,350 INFO  [Log4j] ReuseTestCase is called.. 
+2021-03-12 10:16:10,398 INFO  [Log4j] Click is called ... firstName 
+2021-03-12 10:16:11,168 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:16:11,478 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:16:11,764 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:11,764 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:11,764 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:11,764 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:16:11,764 INFO  [Log4j] WebElement:----------->    company    
+2021-03-12 10:16:11,764 INFO  [Log4j] Input Data:--------------->    SLK GP  
+2021-03-12 10:16:11,764 INFO  [Log4j] Enter text into ... company 
+2021-03-12 10:16:12,097 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:12,097 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:12,097 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:12,097 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:16:12,097 INFO  [Log4j] WebElement:----------->    phoneNum    
+2021-03-12 10:16:12,097 INFO  [Log4j] Input Data:--------------->    12345689  
+2021-03-12 10:16:12,097 INFO  [Log4j] Enter text into ... phoneNum 
+2021-03-12 10:16:12,379 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:12,379 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:12,379 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:12,379 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:16:12,379 INFO  [Log4j] WebElement:----------->    heardAboutUs    
+2021-03-12 10:16:12,379 INFO  [Log4j] Input Data:--------------->    Facebook  
+2021-03-12 10:16:12,513 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:12,513 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:12,513 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:12,513 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:16:12,513 INFO  [Log4j] WebElement:----------->    country    
+2021-03-12 10:16:12,513 INFO  [Log4j] Input Data:--------------->    United States  
+2021-03-12 10:16:12,665 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:12,665 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:12,665 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:12,665 INFO  [Log4j] Action Keyword:----------->    ReuseTestCase  
+2021-03-12 10:16:12,665 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:16:12,665 INFO  [Log4j] Input Data:--------------->    Reuse_TC|TC-1|TS04|TS06|Y  
+2021-03-12 10:16:12,665 INFO  [Log4j] ReuseTestCase is called.. 
+2021-03-12 10:16:12,796 INFO  [Log4j] Click is called ... firstName 
+2021-03-12 10:16:12,997 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:16:13,307 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:16:13,597 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:13,597 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:13,597 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:13,597 INFO  [Log4j] Action Keyword:----------->    ReuseTestCase  
+2021-03-12 10:16:13,597 INFO  [Log4j] WebElement:----------->        
+2021-03-12 10:16:13,597 INFO  [Log4j] Input Data:--------------->    Reuse_TC|TC-2|TS02|TS05|N  
+2021-03-12 10:16:13,597 INFO  [Log4j] ReuseTestCase is called.. 
+2021-03-12 10:16:13,669 INFO  [Log4j] Enter text into ... company 
+2021-03-12 10:16:14,142 INFO  [Log4j] Enter text into ... phoneNum 
+2021-03-12 10:16:14,647 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:14,647 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:14,647 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:14,647 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:16:14,647 INFO  [Log4j] WebElement:----------->    firstName    
+2021-03-12 10:16:14,647 INFO  [Log4j] Input Data:--------------->    Mukesh  
+2021-03-12 10:16:14,647 INFO  [Log4j] Enter text into ... firstName 
+2021-03-12 10:16:15,389 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:15,389 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:15,389 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:15,389 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:16:15,389 INFO  [Log4j] WebElement:----------->    surName    
+2021-03-12 10:16:15,389 INFO  [Log4j] Input Data:--------------->    Thakor  
+2021-03-12 10:16:15,390 INFO  [Log4j] Enter text into ... surName 
+2021-03-12 10:16:15,663 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:15,663 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:15,663 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:15,663 INFO  [Log4j] Action Keyword:----------->    InputText  
+2021-03-12 10:16:15,663 INFO  [Log4j] WebElement:----------->    jobTitle    
+2021-03-12 10:16:15,663 INFO  [Log4j] Input Data:--------------->    SE  
+2021-03-12 10:16:15,663 INFO  [Log4j] Enter text into ... jobTitle 
+2021-03-12 10:16:15,947 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:15,948 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:15,948 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:15,948 INFO  [Log4j] Action Keyword:----------->    selectDropDownByVisibleText  
+2021-03-12 10:16:15,949 INFO  [Log4j] WebElement:----------->    selectState    
+2021-03-12 10:16:15,949 INFO  [Log4j] Input Data:--------------->    AR  
+2021-03-12 10:16:16,177 INFO  [Log4j] **************************************************************************************** 
+2021-03-12 10:16:16,177 INFO  [Log4j] ***********************BEGIN -----TEST-------CASE ******************************** 
+2021-03-12 10:16:16,177 INFO  [Log4j] Test Case ID:------------->    TestCases    
+2021-03-12 10:16:16,177 INFO  [Log4j] Action Keyword:----------->    Click  
+2021-03-12 10:16:16,177 INFO  [Log4j] WebElement:----------->    btnsubmit    
+2021-03-12 10:16:16,177 INFO  [Log4j] Input Data:--------------->    null  
+2021-03-12 10:16:16,178 INFO  [Log4j] Click is called ... btnsubmit 

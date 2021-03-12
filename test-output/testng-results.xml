@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-12T10:14:51 IST" name="KeywordDrivenSuite" finished-at="2021-03-12T10:16:16 IST" duration-ms="85465">
+    <groups>
+    </groups>
+    <test started-at="2021-03-12T10:14:51 IST" name="FirefoxTest" finished-at="2021-03-12T10:15:48 IST" duration-ms="57553">
+      <class name="com.Test.TestController">
+        <test-method is-config="true" signature="LaunchApplication(java.lang.String)[pri:0, instance:com.Test.TestController@23fb172e]" started-at="2021-03-12T10:14:51 IST" name="LaunchApplication" finished-at="2021-03-12T10:15:17 IST" duration-ms="26424" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method is-config="true" signature="initBrowser()[pri:0, instance:com.Test.TestController@23fb172e]" started-at="2021-03-12T10:15:17 IST" name="initBrowser" finished-at="2021-03-12T10:15:17 IST" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method signature="TestCaseController(java.lang.String)[pri:0, instance:com.Test.TestController@23fb172e]" started-at="2021-03-12T10:15:17 IST" name="TestCaseController" finished-at="2021-03-12T10:15:48 IST" duration-ms="30650" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCaseController -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Test.TestController@23fb172e]" started-at="2021-03-12T10:15:48 IST" name="tearDown" finished-at="2021-03-12T10:15:48 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Test.TestController -->
+    </test> <!-- FirefoxTest -->
+    <test started-at="2021-03-12T10:14:51 IST" name="ChromeTest" finished-at="2021-03-12T10:16:16 IST" duration-ms="85465">
+      <class name="com.Test.TestController">
+        <test-method is-config="true" signature="LaunchApplication(java.lang.String)[pri:0, instance:com.Test.TestController@5829e4f4]" started-at="2021-03-12T10:14:51 IST" name="LaunchApplication" finished-at="2021-03-12T10:14:54 IST" duration-ms="3252" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method is-config="true" signature="initBrowser()[pri:0, instance:com.Test.TestController@5829e4f4]" started-at="2021-03-12T10:14:54 IST" name="initBrowser" finished-at="2021-03-12T10:14:54 IST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method signature="TestCaseController(java.lang.String)[pri:0, instance:com.Test.TestController@5829e4f4]" started-at="2021-03-12T10:14:54 IST" name="TestCaseController" finished-at="2021-03-12T10:16:16 IST" duration-ms="81864" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCaseController -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Test.TestController@5829e4f4]" started-at="2021-03-12T10:16:16 IST" name="tearDown" finished-at="2021-03-12T10:16:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Test.TestController -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- KeywordDrivenSuite -->
+</testng-results>
